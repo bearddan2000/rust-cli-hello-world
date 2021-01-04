@@ -1,0 +1,18 @@
+[2021-01-01 00:49:05 INFO]: install::setup-logging ended
+================
+[2021-01-01 00:49:05 INFO]: install::start-up started
+[2021-01-01 00:49:05 INFO]: install::start-up build image
+[2021-01-01 00:49:05 INFO]: install::start-up enabling xhost connection to image
+[2021-01-01 00:49:05 INFO]: install::start-up running image
+[2021-01-01 00:49:05 INFO]: install::start-up ended
+================
+[2021-01-01 01:11:02 INFO]: install::root-check started
+[2021-01-01 01:11:02 INFO]: install::root-check ended
+================
+[2021-01-01 01:11:02 INFO]: install::docker-check started
+[2021-01-01 01:11:02 INFO]: install::docker-check ended
+================
+[2021-01-01 01:11:02 INFO]: install::tear-down started
+[2021-01-01 01:11:02 INFO]: install::tear-down services removed
+[2021-01-01 01:11:02 INFO]: install::tear-down ended
+================
